@@ -1,0 +1,8 @@
+MetaTrader5
+python-dotenv
+pandas
+numpy
+scikit-learn
+tensorflow   # or keras
+matplotlib
+requests 
